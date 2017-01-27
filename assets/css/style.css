@@ -1,0 +1,39 @@
+#selfie {
+	float:left;
+	width:300px;
+	margin: 0 15px 10px 0;
+}
+
+#connect {
+	text-align: center;
+}
+
+.footer {
+	padding-top: 15px;
+	text-align:center;
+	position: absolute;
+    bottom: 0;
+    left:0;
+    width: 100%;
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.panel-body .col-md-6 img {
+	height: 120px;
+	width: 180px;
+}
+
+.thumbnail {
+	opacity:1;
+}
+
+.thumbnail:hover {
+	opacity:.8;
+}
+
+a h3 {
+	position: absolute;
+	top: 80px;
+	right: 120px;
+}
